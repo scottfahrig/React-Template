@@ -19,9 +19,9 @@ After your project is up and running, you'll need to manually create a `.env` fi
 
 I plan on adding some standard features to this template as my needs for them arise. Including:
 
-[ ] Firebase Auth
-[ ] User Templates
-[ ] Basic App Components
+- [ ] Firebase Auth
+- [ ] User Templates
+- [ ] Basic App Components
 
 # Getting Started with Create React App
 
