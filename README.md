@@ -1,3 +1,28 @@
+# Glitchless Industries React App Boilerplate
+
+This is a gently modified version of the [Create React App](https://github.com/facebook/create-react-app) framework available via NPM.
+
+## Installation
+
+In your terminal, enter the following commands:
+
+1. `git clone [url]` this repository
+2. `cd react-template` to enter the working directory
+3. `npm install` to install dependencies 
+4. `npx tailwind init -p` to create the necessary files for [TailwindCSS](https://tailwindcss.com/)
+5. `npm start` to start server on [http://localhost:3000](http://localhost:3000)
+
+## After Installation
+After your project is up and running, you'll need to manually create a `.env` file in the root directory to store all your environment variables like API keys. `.env` is added to `.gitignore` by default, but it's worth double-checking so you don't accidentally upload private API keys to a repo on Github or Gitlab.
+
+## Roadmap
+
+I plan on adding some standard features to this template as my needs for them arise. Including:
+
+[ ] Firebase Auth
+[ ] User Templates
+[ ] Basic App Components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
